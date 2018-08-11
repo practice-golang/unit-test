@@ -1,0 +1,8 @@
+.DS_Store
+pkg
+bin
+sum.exe
+vendor
+Gopkg.lock
+Gopkg.toml
+test.log
